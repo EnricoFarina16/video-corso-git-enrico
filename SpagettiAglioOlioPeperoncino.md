@@ -8,3 +8,5 @@ Uno dei piatti più facili da cucinare, è molto difficile farlo male!
 * Aglio
 * Olio
 * Peperoncino
+* Prezzemolo
+* Olio Santo
