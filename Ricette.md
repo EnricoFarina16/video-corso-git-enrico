@@ -8,3 +8,4 @@ Il famoso ricettario di Enrico con tutti i suoi piatti preferiti
 * Risotto ai Funghi
 * Spaghetti alla Carbonara
 * Minestrone di verdure
+* Salmone al Cartoccio
