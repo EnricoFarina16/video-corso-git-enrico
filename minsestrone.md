@@ -4,7 +4,7 @@ Un ottimo piatto invernale
 
 ## Ingredienti
 
-*Patate
+* Patate
 * Cipolle
 * Basilico
 * Cavoli
